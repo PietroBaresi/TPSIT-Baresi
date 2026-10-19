@@ -1,0 +1,13 @@
+def parola_piu_lunga(nome_file):
+    lunga = ""
+    with open(nome_file, "r", encoding= "utf-8") as f:
+        for riga in f:
+            for parola in riga.split():
+                parola_no_punt = parola.strip("!,:;-_()?@<>=+%/'")
+                if len(parola_no_punt) > len(lunga):
+                    lunga = parola_no_punt
+            
+    return lunga
+
+p = parola_piu_lunga("dati/parole.txt")
+print(p, "-", len(p))
