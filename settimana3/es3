@@ -10,4 +10,4 @@ def parola_piu_lunga(nome_file):
     return lunga
 
 p = parola_piu_lunga("dati/parole.txt")
-print(p, "-", len(p))
+print(p, "ha", len(p), "lettere")

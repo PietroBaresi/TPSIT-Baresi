@@ -1,0 +1,29 @@
+[
+    {
+        "studente": "Sofia",
+        "classe": "4AI",
+        "voti": [8, 9, 7.5],
+        "tutor": {
+            "nome": "Elena",
+            "contatti": {"email": "elena@example.it", "interno": 214}
+        }
+    },
+    {
+        "studente": "Shibba",
+        "classe": "4AI",
+        "voti": [8, 7.5],
+        "tutor": {
+            "nome": "Elena",
+            "contatti": {"email": "elena@example.it", "interno": 214}
+        }
+    },  
+    {
+        "studente": "Chiara",
+        "classe": "4AI",
+        "voti": [8, 9, 7.5],
+        "tutor": {
+            "nome": "Elena",
+            "contatti": {"email": "elena@example.it", "interno": 214}
+        }
+    }
+]
