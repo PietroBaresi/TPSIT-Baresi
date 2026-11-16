@@ -1,0 +1,26 @@
+[
+  {
+    "titolo": "Il Signore degli Anelli",
+    "autore": "J.R.R. Tolkien",
+    "voto_medio": null,
+    "quante_recensioni": 0
+  },
+  {
+    "titolo": "1984",
+    "autore": "George Orwell",
+    "voto_medio": null,
+    "quante_recensioni": 0
+  },
+  {
+    "titolo": "Il nome della rosa",
+    "autore": "Umberto Eco",
+    "voto_medio": null,
+    "quante_recensioni": 0
+  },
+  {
+    "titolo": "Il deserto dei Tartari",
+    "autore": "Dino Buzzati",
+    "voto_medio": null,
+    "quante_recensioni": 0
+  }
+]
