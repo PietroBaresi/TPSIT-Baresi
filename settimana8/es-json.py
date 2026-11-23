@@ -1,7 +1,6 @@
-#import json
-
-
 # ''' dici a python che è un formato json
+import json
+
 testo = '''{                                       
   "titolo": "Il deserto dei Tartari",
   "prezzo": 9.90,
